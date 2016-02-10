@@ -1,0 +1,33 @@
+_repo: Le-lettere-di-Michelangelo-Buonarroti_46599
+contributor:
+  creator:
+    editor:
+      agent_name: Milanese, Gaetano
+      gutenberg_agent_id: '43872'
+      url: http://www.gutenberg.org/2009/agents/43872
+covers:
+- cover_type: archival
+  image_path: 46599/46599-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Michelangelo Buonarroti
+    alias: Buonarroti, Michelangelo
+    birthdate: 1475
+    deathdate: 1564
+    gutenberg_agent_id: '3463'
+    url: http://www.gutenberg.org/2009/agents/3463
+    wikipedia: http://en.wikipedia.org/wiki/Michelangelo
+description: ''
+gutenberg_bookshelf: IT Narrativa varia
+gutenberg_issued: '2014-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46599'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Le lettere di Michelangelo Buonarroti
+url: http://www.gutenberg.org/ebooks/46599
