@@ -1,4 +1,5 @@
 _repo: Le-lettere-di-Michelangelo-Buonarroti_46599
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -7,9 +8,7 @@ contributor:
       url: http://www.gutenberg.org/2009/agents/43872
 covers:
 - cover_type: archival
-  image_path: 46599/46599-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46599-h/images/cover.jpg
 creator:
   author:
     agent_name: Michelangelo Buonarroti
@@ -20,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3463
     wikipedia: http://en.wikipedia.org/wiki/Michelangelo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46599#Le-lettere-di-Michelangelo-Buonarroti
 gutenberg_bookshelf: IT Narrativa varia
 gutenberg_issued: '2014-08-16'
 gutenberg_type: Text
